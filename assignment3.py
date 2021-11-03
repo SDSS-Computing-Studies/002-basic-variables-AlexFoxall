@@ -3,4 +3,4 @@
 value1 = 10
 
 
-vaule2 = 10
+value2 = "10"
